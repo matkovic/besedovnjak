@@ -7,3 +7,5 @@ First you choose the dictionary where are all possible words that can appear (di
 It is not very efficient because of recursion, but it does its job.
 
 ![example](http://shrani.si/f/45/Ep/3OMFyTrs/besedovnjak.png)
+
+Project was made in NetBeans IDE 8.0.2.
