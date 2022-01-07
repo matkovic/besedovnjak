@@ -6,6 +6,14 @@ First you choose the dictionary where are all possible words that can appear (di
 
 It is not very efficient because of recursion, but it does its job.
 
-![example](http://shrani.si/f/45/Ep/3OMFyTrs/besedovnjak.png)
+![example](imgs/besedovnjak.jpg)
 
 Project was made in NetBeans IDE 8.0.2.
+
+Tested working in java 11.
+
+
+```
+javac .\BesedeFrame.java
+java .\BesedeFrame.java
+```
